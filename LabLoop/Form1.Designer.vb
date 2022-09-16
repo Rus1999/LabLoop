@@ -156,7 +156,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Pink
-        Me.ClientSize = New System.Drawing.Size(412, 276)
+        Me.ClientSize = New System.Drawing.Size(396, 276)
         Me.Controls.Add(Me.EndNumTextbox)
         Me.Controls.Add(Me.StartNumTextbox)
         Me.Controls.Add(Me.CalculateBtn)
